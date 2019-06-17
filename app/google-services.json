@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "167788740359",
+    "firebase_url": "https://inventario-it-habitaciones.firebaseio.com",
+    "project_id": "inventario-it-habitaciones",
+    "storage_bucket": "inventario-it-habitaciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167788740359:android:9255a7b09c2146e5",
+        "android_client_info": {
+          "package_name": "com.ejemplo.app.crudfirebase_artedelaprogramacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167788740359-es4u3mo2018fs6prtm96ahtft5u15vlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrv52q4wAl3YXdBM7iqW_Ti5bMT1NFvL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167788740359-es4u3mo2018fs6prtm96ahtft5u15vlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167788740359:android:24246c37563670dc",
+        "android_client_info": {
+          "package_name": "com.ejemplo.app.inventoryhotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167788740359-es4u3mo2018fs6prtm96ahtft5u15vlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrv52q4wAl3YXdBM7iqW_Ti5bMT1NFvL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167788740359-es4u3mo2018fs6prtm96ahtft5u15vlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
